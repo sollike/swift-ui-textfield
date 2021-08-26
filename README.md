@@ -1,11 +1,10 @@
 # SwiftUI-login-textfield
 
-### just simple example * 
+### just simple example \*
+
 using `text-field` and `secure-field`
 
-
 ### _just front-end_
-
 
 로그인 화면 구현에 필요한 text-field와 secure-field를 사용해보았다.
 
@@ -17,8 +16,7 @@ simulator - iphone11
 screen shot 🧷
 
 `첫 화면`
-![1](./screenshot/1.png)
-
+![1](./resizeimage/1.png)
 
 `id 입력시`
 
